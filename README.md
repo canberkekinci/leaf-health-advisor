@@ -1,2 +1,5 @@
-# leaf-health-advisor
-AI-driven agricultural decision support system combining CNN-based plant disease detection with a gradient-boosted recommendation engine. Django REST backend, Vue frontend.
+# AI-Driven Crop Health Decision System
+
+End-to-end pipeline that detects plant diseases from leaf images (CNN) 
+and generates actionable recommendations (XGBoost + SHAP) based on 
+detection results, weather, and soil data.
